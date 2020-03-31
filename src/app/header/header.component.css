@@ -1,0 +1,25 @@
+header{
+    width:100%;
+    background-color: black;
+    float: left;
+}
+h1{
+color:White;
+margin-left:3%;
+float: left;
+}
+nav{
+    width:50%;
+    margin-top:2%;
+    float:right;
+}
+ul li{
+    margin-left: 2%;
+    list-style-type: none;
+    float: left;
+}
+a{
+    color:white;
+    text-decoration: none;
+    font-weight:bold;
+}

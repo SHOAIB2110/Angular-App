@@ -1,0 +1,9 @@
+<ul *ngFor="let i of colors">
+  <li [ngClass]="{
+    'red':i==='red',
+'green':i==='green',
+
+  'blue':i==='blue'}">{{i}}
+  </li>
+
+</ul>

@@ -1,0 +1,10 @@
+footer{
+    float:left;
+    width: 100%;
+    background-color: navy;
+    color:white;
+    height:60px;
+}
+footer p{
+    text-align: center;
+}

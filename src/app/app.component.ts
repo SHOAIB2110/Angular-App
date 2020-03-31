@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'myapp';
+  show:boolean=false;
+visible:boolean=true;
+fun(){
+  console.log("Button clicked");
+
+};
+
 }
